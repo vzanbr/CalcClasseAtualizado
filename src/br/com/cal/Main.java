@@ -7,7 +7,7 @@ public class Main {
 
         Scanner memoria = new Scanner(System.in);
 
-        Back cal = new Back();
+        Calculadora cal = new Calculadora();
 
         System.out.println(" numero 1 = ");
         double numero1 = memoria.nextDouble();

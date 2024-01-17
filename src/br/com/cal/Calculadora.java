@@ -1,6 +1,6 @@
 package br.com.cal;
 
-public class Back {
+public class Calculadora {
 
     public double calcular(double numero1, double numero2, char operacao) {
         switch (operacao) {
